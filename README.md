@@ -1,6 +1,8 @@
 # dataviz-project
-Group project in Data Visualisation course at CentraleSupelec
 
+The project was part of the course of Data Visualisation taught at CentraleSupelec and its main objective was to create visualisations from a dataset.
+
+## Introduction and project motivation
 Music has been an integral part of human culture and experience for thousands of years. It has the power to evoke strong emotions and shape our moods, making it an interesting area of study for psychologists and researchers. However, despite its widespread impact, little is still understood about the relationship between music and psychology.
 
 ## Dataset
